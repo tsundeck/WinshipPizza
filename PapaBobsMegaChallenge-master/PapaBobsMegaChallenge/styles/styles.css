@@ -1,0 +1,7 @@
+﻿.margin-none {
+    margin: 0;
+}
+
+.checkbox+.checkbox, .radio+.radio {
+    margin: 0;
+}
